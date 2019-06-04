@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/scssyworks/executable-test/issues"
   },
-  "homepage": "https://github.com/scssyworks/executable-test#readme"
+  "homepage": "https://github.com/scssyworks/executable-test#readme",
+  "bin": {
+    "test-cli": "./index.js"
+  }
 }
