@@ -1,0 +1,23 @@
+{
+  "name": "executable-test",
+  "version": "1.0.0",
+  "description": "Executable test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scssyworks/executable-test.git"
+  },
+  "keywords": [
+    "executable",
+    "test"
+  ],
+  "author": "Sachin Singh <contactsachinsingh@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/scssyworks/executable-test/issues"
+  },
+  "homepage": "https://github.com/scssyworks/executable-test#readme"
+}
