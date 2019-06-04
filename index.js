@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 
-const args = process.argv;
+const test = require('./test.json');
 
-console.log(args);
+console.log(test);

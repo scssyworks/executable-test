@@ -22,5 +22,8 @@
   "homepage": "https://github.com/scssyworks/executable-test#readme",
   "bin": {
     "test-cli": "./index.js"
+  },
+  "dependencies": {
+    "fs-extra": "^8.0.1"
   }
 }
