@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 
-const test = require('./test.json');
+const fs = require('fs-extra');
+const currDir = process.cwd();
 
-console.log(test);
+fs.copySync(`${__dirname}/someFolder`, `${currDir}/someFolder`);
